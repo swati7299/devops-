@@ -5,7 +5,8 @@ input_file = 'input_data.csv'
 data = pd.read_csv(input_file)
 
 # Display the first few rows of the data
-print("Original neww Dsdsdsata:")
+print("Original newwwwww one Dsdsdsata:")
+print("hii")
 print(data.head())
 
 # Step 2: Perform some basic data manipulations
